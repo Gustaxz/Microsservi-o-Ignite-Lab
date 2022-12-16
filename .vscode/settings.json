@@ -1,0 +1,44 @@
+{
+  "save": "dracula-theme.theme-dracula",
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "material-icon-theme",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "all",
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "prettier.useTabs": true,
+  "prettier.tabWidth": 8,
+  "prettier.semi": false,
+  "prettier.printWidth": 100,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.experimental.configFile": null,
+  "git.autofetch": true,
+  "material-icon-theme.activeIconPack": "nest",
+  "material-icon-theme.folders.color": "#80a4ae",
+  "prettier.useEditorConfig": true
+}
